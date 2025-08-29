@@ -13,10 +13,17 @@ LOR, CGPA and Research Experience) and one target (chance of admission). Create 
 predictive model to predict the chance of admission of a student.
 
 
+
+
 Open-ended features:
+
 ● Use any of the suitable data structures to store the data.
+
 ● Use your preferred programming language (Python, C, C++ etc.)
+
 ● The output can be a text-based interface or a graphical interface
+
+
 
 
 Tasks
